@@ -8,3 +8,9 @@ For a closer look at the Persona module (mock interview + analysis engine), chec
 👉 [Persona Repository](https://github.com/TheAnshulPrakash/Persona)
 
 
+## Aptiview Demo
+
+![Landing Page](Aptiview%20Demo/image3.png)
+![Analysis](Aptiview%20Demo/image4.png)
+![Trends](Aptiview%20Demo/image1.png)
+![Skills](Aptiview%20Demo/image5.png)
